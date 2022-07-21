@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="51e5cfa9-4a08-49df-9fad-068f4ccd812f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658385977852</updated>
       <workItem from="1658385982745" duration="5033000" />
-      <workItem from="1658393683627" duration="6110000" />
+      <workItem from="1658393683627" duration="7623000" />
     </task>
     <servers />
   </component>
